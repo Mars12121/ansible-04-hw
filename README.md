@@ -104,7 +104,7 @@ lighthouse_nginx_conf: "lighthouse.conf"
 [site.yml](playbook%2Fsite.yml)
 
 Работа playbook и предварительное скачивание требуемых ролей, описанных в `requirements.yml`:
-![alt text](https://github.com/Mars12121/ansible-04-hw/blob/main/img/6.png)
+![alt text](https://github.com/Mars12121/ansible-04-hw/blob/main/img/7.png)
 
 #### 10. Выложите playbook в репозиторий.
 #### 11. В ответе дайте ссылки на оба репозитория с roles и одну ссылку на репозиторий с playbook.
