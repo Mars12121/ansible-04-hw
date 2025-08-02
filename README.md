@@ -30,7 +30,7 @@
 #### 7. Повторите шаги 3–6 для LightHouse. Помните, что одна роль должна настраивать один продукт.
 
 Ответ:
-![alt text](https://github.com/Mars12121/ansible-04-hw/blob/main/img/2.png)
+![alt text](https://github.com/Mars12121/ansible-04-hw/blob/main/img/3.png)
 
 #### vector-role:
 
