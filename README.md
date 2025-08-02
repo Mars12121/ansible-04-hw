@@ -7,22 +7,11 @@
 
    ```yaml
    ---
-     - src: git@github.com:Mars12121/ansible-clickhouse.git
+     - src: git@github.com:AlexeySetevoi/ansible-clickhouse.git
        scm: git
        version: "1.13"
        name: clickhouse 
    ```
-
-Ответ:
-Создал файл `requirements.yml' с содержимым:
-```
----
-  - src: https://github.com/AlexeySetevoi/ansible-clickhouse.git
-    scm: git
-    version: "1.13"
-    name: clickhouse 
-```
-
 
 #### 2. При помощи `ansible-galaxy` скачайте себе эту роль.
 
